@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @paulo-hjr
+-" Alo mundo"
+     
+      Me chamo Paulo, sou funcionário público estadual a 21 anos, pai de Pérola, casado com Lucélia. 
+         Há alguns anos estou afastado da área de informática, situando  quanto o tempo passou pra mim, 
+                sou da época onde o auge era o DOS, Clipper, disquete, entre outras raridades. 
+                       Estou tentando retornar a atualidade, através de cursos, e tendo a grata supresa de existirem
+                                 empresas, dentre estas, a DIO como facilitadoras dessa empreitada.  👋 Hi, I’m @paulo-hjr
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
